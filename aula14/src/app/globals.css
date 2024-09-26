@@ -6,8 +6,8 @@
 @layer components{
     
     .cabecalho{
-        @apply bg-gray-800 text-white text-3xl font-bold p-4 w-[100vw] h-[20vh] m-auto text-center;
+        @apply bg-gray-800 text-white text-3xl font-bold p-4 w-[100vw] h-[25vh] m-auto text-center;
     }
-
-
 }
+
+
