@@ -28,5 +28,17 @@
         "nome": "Fone de ouvido",
         "preco": 200,
         "estoque": 15
+    },
+    {
+        "nome": "Cabo de Vela",
+        "preco": 1500,
+        "estoque": 34,
+        "id": 6
+    },
+    {
+        "nome": "Mesa",
+        "preco": 654,
+        "estoque": 21,
+        "id": 7
     }
 ]
