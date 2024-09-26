@@ -9,7 +9,7 @@ export default function Produtos() {
 
     useEffect(() => {
         const chamadaApi = async () => {
-            const response = await fetch("http://localhost:3000/api");
+            const response = await fetch("http://localhost:3000/api/base-produtos");
             const data = await response.json();
             console.log(data);
             setLista(data);
