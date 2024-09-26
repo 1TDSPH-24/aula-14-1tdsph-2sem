@@ -36,11 +36,11 @@ export async function POST(request:Request, response:Response){
 
 
 
-export async function PUT() {
-}
+// export async function PUT() {
+// }
 
-export async function DELETE() {
-}
+// export async function DELETE() {
+// }
 
-export async function PATCH() {
-}
+// export async function PATCH() {
+// }
